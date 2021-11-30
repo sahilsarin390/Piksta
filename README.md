@@ -2,9 +2,12 @@
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/Piksta)](https://badges.pufler.dev)
 
 Coming Soon!!
+
 Working on designing right now.
 
-An android app that features a feed of pictures posted by the community.
+Initial Idea:
+
+A minimal neumorphic android app based on latest UI trends which features a vast feed of pictures posted by the community.
 
 <div align = "center">
 
