@@ -5,6 +5,6 @@ An android app that features a feed of pictures posted by the community.
 
 <div align = "center">
 
-  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+  [![image](https://raw.githubusercontent.com/sahilsarin390/Piksta/main/Screenshot%202021-11-30%20233823.png)][Home Page]
   
 </div>
