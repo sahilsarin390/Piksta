@@ -1,7 +1,8 @@
 # Piksta 
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/Piksta)](https://badges.pufler.dev)
 
-####Coming Soon!!
+Coming Soon!!
+Working on designing right now.
 
 An android app that features a feed of pictures posted by the community.
 
