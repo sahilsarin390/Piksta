@@ -7,7 +7,7 @@ Working on designing right now.
 
 Initial Idea:
 
-A minimal neumorphic android app based on latest UI trends which features a vast feed of pictures posted by the community.
+A minimal neumorphic Android/IOS app based on latest UI trends which features a vast feed of pictures posted by the community.
 
 <div align = "center">
 
